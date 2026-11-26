@@ -1,5 +1,17 @@
 # 🌿 PlantAI – AI-Powered Plant Disease Detection System
 
+# 🌿 PlantAI - Plant Disease Detection
+
+## 🚀 Live Demo
+
+Try the working application here:
+
+https://plantai-plant-disease-detection-utxqtxjmddmbauqsvpfadx.streamlit.app/
+
+## 💻 Source Code
+
+https://github.com/pj879013-ctrl/PlantAI-Plant-Disease-Detection
+
 ## Project Overview
 
 PlantAI is a deep learning-based web application designed to classify plant leaf images into 15 plant health categories using a MobileNetV2-based image classification model.
