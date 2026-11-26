@@ -17,7 +17,7 @@ data/
 *.db
 
 # Model files - keep local; large files
-models/*.keras
+
 
 # Environment variables
 .env
